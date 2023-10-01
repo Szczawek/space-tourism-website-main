@@ -11,9 +11,9 @@ html {
 }
 
 :root {
-  --desktop: url("assets/home/background-home-desktop.jpg");
-  --tablet: url("assets/home/background-home-tablet.jpg");
-  --mobile: url("assets/home/background-home-mobile.jpg");
+  --desktop: url("./assets/home/background-home-desktop.jpg");
+  --tablet: url("./assets/home/background-home-tablet.jpg");
+  --mobile: url("./assets/home/background-home-mobile.jpg");
   --dark-text-color: #0b0d17;
   --fs-900: 150px;
   --fs-700: 100px;
