@@ -1,27 +1,27 @@
 [
   {
     "name": "home",
-    "--desktop": "url(assets/home/background-home-desktop.jpg)",
-    "--tablet": "url(assets/home/background-home-tablet.jpg)",
-    "--mobile": "url(assets/home/background-home-mobile.jpg)"
+    "--desktop": "url(./assets/home/background-home-desktop.jpg)",
+    "--tablet": "url(./assets/home/background-home-tablet.jpg)",
+    "--mobile": "url(./assets/home/background-home-mobile.jpg)"
   },
   {
     "name": "destination",
-    "--desktop": "url(assets/destination/background-destination-desktop.jpg)",
-    "--tablet": "url(assets/destination/background-destination-tablet.jpg)",
-    "--mobile": "url(assets/destination/background-destination-mobile.jpg)"
+    "--desktop": "url(./assets/destination/background-destination-desktop.jpg)",
+    "--tablet": "url(./assets/destination/background-destination-tablet.jpg)",
+    "--mobile": "url(./assets/destination/background-destination-mobile.jpg)"
   },
 
   {
     "name": "crew",
-    "--desktop": "url(/assets/crew/background-crew-desktop.jpg)",
-    "--tablet": "url(/assets/crew/background-crew-tablet.jpg)",
-    "--mobile": "url(/assets/crew/background-crew-desktop.jpg)"
+    "--desktop": "url(/./assets/crew/background-crew-desktop.jpg)",
+    "--tablet": "url(/./assets/crew/background-crew-tablet.jpg)",
+    "--mobile": "url(/./assets/crew/background-crew-desktop.jpg)"
   },
   {
     "name": "technology",
-    "--desktop": "url(assets/technology/background-technology-desktop.jpg)",
-    "--tablet": "url(assets/technology/background-technology-tablet.jpg)",
-    "--mobile": "url(assets/technology/background-technology-mobile.jpg)"
+    "--desktop": "url(./assets/technology/background-technology-desktop.jpg)",
+    "--tablet": "url(./assets/technology/background-technology-tablet.jpg)",
+    "--mobile": "url(./assets/technology/background-technology-mobile.jpg)"
   }
 ]
